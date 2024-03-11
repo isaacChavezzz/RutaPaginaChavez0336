@@ -25,6 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 - resultados
 - ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/5743bf96-9568-455d-b762-465883174f44)
 - ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/baf99e2a-60c0-46fb-b53e-11d41a39b735)
-- ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/60c47792-532d-4c0a-bfa7-a7141167865f)
+- ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/0b129729-fea6-4b63-ae8e-301a83c6607a)
+
 
 
