@@ -17,3 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## P13 ROUTER - Flutter Online IDE
+
+- link de referencia: https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view?usp=classroom_web&authuser=0
+- isaac Chavez: a.21308051280336@cbtis128.edu.mx
+- resultados
+- ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/5743bf96-9568-455d-b762-465883174f44)
+- ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/baf99e2a-60c0-46fb-b53e-11d41a39b735)
+- ![image](https://github.com/isaacChavezzz/RutaPaginaChavez0336/assets/143744084/60c47792-532d-4c0a-bfa7-a7141167865f)
+
+
